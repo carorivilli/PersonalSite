@@ -1,0 +1,60 @@
+body{
+    background-color: #F4F2DE;
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 50px;
+    color: #A76F6F;
+}
+.principal2{
+    font-size: 30px;
+    color: #A76F6F;
+}
+h2{
+    font-size: 30px;
+    color: #331D2C;
+
+}
+h3{
+    font-size: 20px;
+    color: #331D2C;
+}
+.principal{
+    background-color: #F4F2DE;
+    margin: auto;
+    position: relative;
+    margin-top: 100px;
+    font-family: "Borel";
+    
+}
+  
+.mountain{
+    
+    position: relative;
+   
+
+
+}
+.nube-top{
+    position: absolute;
+    margin-top: -90px;
+    right: 500px;
+    width: 150px;
+    height: 150px;
+}
+.nube-bottom{
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+}
+.imgMe{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
